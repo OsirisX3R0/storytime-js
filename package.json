@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OsirisX3R0/storytime-js/issues"
   },
-  "homepage": "https://github.com/OsirisX3R0/storytime-js#readme"
+  "homepage": "https://github.com/OsirisX3R0/storytime-js#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
